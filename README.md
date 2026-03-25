@@ -6,7 +6,7 @@
 <h3 align="center">Frontend Developer in progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Luisa+Calle;Frontend+Developer;Passionate+about+creating+modern+websites;Learning+something+new+every+day✨&center=true&width=550">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Luisa+Calle+Restrepo;Frontend+Developer;Systems+Engineering+Student&center=true&width=450">
 </p>
 
 
