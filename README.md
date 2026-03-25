@@ -18,7 +18,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 Systems Engineering student (5th semester)
+- 🎓 Systems Engineering student
 - 💻 Focused on Frontend Development
 - 🌱 Currently learning JavaScript, Git & GitHub
 - 🛍️ Working on my own store website project
