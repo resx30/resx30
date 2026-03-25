@@ -36,7 +36,9 @@
 
 ## 📂 Projects
 
-- 🛍️ Store Website (in progress)
+- 🌐 **Portfolio Website**  
+  Responsive personal portfolio built with HTML, CSS and JavaScript.  
+  🔗 https://github.com/resx30/Portafolioweb
 - 🧮 Calculator App
 - ✅ To-Do List
 
