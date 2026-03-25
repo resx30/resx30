@@ -21,8 +21,6 @@
 - 💻 Focused on Frontend Development
 - 🌱 Currently learning JavaScript, Git & GitHub
 - 🛍️ Working on my own store website project
-- 💬 Ask me about HTML, CSS, JavaScript, C#, SQL
-
 
 ---
 
@@ -46,7 +44,7 @@
 
 ## 📫 Connect with me
 
-<a href="https://github.com/TUUSUARIO">
+<a href="href="https://github.com/resx30"">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
