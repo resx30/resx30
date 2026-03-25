@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Luisa+Calle;Frontend+Developer;Passionate+about+creating+modern+websites;Learning+something+new+every+day✨&center=true&width=550">
 </p>
+
+
 [![Github](https://img.shields.io/github/followers/resx30?label=Follow&style=social)](https://github.com/resx30)
 
 ---
