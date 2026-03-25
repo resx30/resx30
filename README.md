@@ -3,12 +3,11 @@
 </p>
 
 <h1 align="center">Hi👋, I'm Luisa</h1>
-<h3 align="center">Frontend Developer in progress 🚀</h3>
+<h3 align="center">Frontend Developer in progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Systems+Engineering+Student;Learning+Every+Day🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Luisa+Calle;Frontend+Developer;Passionate+about+creating+modern+websites;Learning+something+new+every+day✨&center=true&width=550">
 </p>
-
 [![Github](https://img.shields.io/github/followers/resx30?label=Follow&style=social)](https://github.com/resx30)
 
 ---
