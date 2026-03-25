@@ -36,9 +36,9 @@
 
 ## 📂 Projects
 
-- 🌐 **Portfolio Website**  
-  Responsive personal portfolio built with HTML, CSS and JavaScript.  
-  🔗 https://github.com/resx30/Portafolioweb
+- 🌐 **Portafolio Web**  
+  Sitio web personal donde muestro mis proyectos, habilidades y enfoque en desarrollo frontend.  
+  🔗 https://resx30.github.io/Portafolio/
 - 🧮 Calculator App
 - ✅ To-Do List
 
