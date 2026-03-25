@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Systems+Engineering+Student;Learning+Every+Day🚀" />
 </p>
 
-[![Github](https://img.shields.io/github/followers/TUUSUARIO?label=Follow&style=social)](https://github.com/TUUSUARIO)
+[![Github](https://img.shields.io/github/followers/resx30?label=Follow&style=social)](https://github.com/resx30)
 
 ---
 
@@ -34,8 +34,8 @@
 
 ## 📂 Projects
 
-- 🌐 **Portafolio Web**  
-  Sitio web personal donde muestro mis proyectos, habilidades y enfoque en desarrollo frontend.  
+  - 🌐 **Portfolio Website**  
+  Responsive personal portfolio built with HTML, CSS and JavaScript.  
   🔗 https://resx30.github.io/Portafolio/
 - 🧮 Calculator App
 - ✅ To-Do List
@@ -52,10 +52,10 @@
 
 ## 📊 GitHub Stats
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=resx30&show_icons=true&theme=tokyonight&hide_border=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=resx30&theme=tokyonight&hide_border=true) |
 | --- | --- |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resx30&theme=tokyonight)
 
 ---
 
