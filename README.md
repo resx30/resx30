@@ -48,6 +48,11 @@
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
+<a href="https://www.linkedin.com/in/luisa-calle-restrepo-895a663b7" target="_blank">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
