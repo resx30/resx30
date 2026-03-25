@@ -44,7 +44,7 @@
 
 ## 📫 Connect with me
 
-<a href="href="https://github.com/resx30"">
+<a href="https://github.com/resx30" target="_blank">
   <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/>
 </a>
 
